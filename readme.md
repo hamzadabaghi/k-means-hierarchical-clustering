@@ -1,1 +1,1 @@
-K-Means and Hi‚rarchique 
+K-Means and Hierarchique 
